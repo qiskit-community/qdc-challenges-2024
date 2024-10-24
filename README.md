@@ -9,29 +9,29 @@ Every afternoon during QDC, attendees will have the opportunity to participate i
 Every day there will be two challenges happening in parallel, and you may choose which one you would like to participate in based on your skills and interests. See below a summary of topics covered by each challenge:
 
 ### Day 1 - Circuits and Functions
-- Option A: Introduction to Qiskit circuit functions and addons
+- Track A: Introduction to Qiskit circuit functions and addons
     - Get familiar with the IBM Functions catalogue
     - Learn how to use circuit functions
     - Build your own function using Qiskit addons
 
-- Option B: Utility scale workload with sample-based quantum diagonalization (SQD)
+- Track B: Utility scale workload with sample-based quantum diagonalization (SQD)
     - Learn how to use SQD to improve results from a Hamiltonian simulation problem
 
 ### Day 2 - Transpilation
-- Option A: Introduction to Qiskit transpilation
+- Track A: Introduction to Qiskit transpilation
     - Understand how to use `generate_preset_passmanager` with different options
     - Build custom passmanagers
     - Get started with the Qiskit Transpiler Service
 
-- Option B: Experiment with custom passmanagers
+- Track B: Experiment with custom passmanagers
     - Build the best possible custom passmanager
     - Optimize your circuit to reduce circuit depth and 2-qubit gates
 
 ### Day 3 - Accuracy and Execution
-- Option A: Introduction to noise learning and job debugging
+- Track A: Introduction to noise learning and job debugging
     - Learn debugging techniques for error mitigation queries
     - Use noise learning helper programs to estimate noise
-- Option B: Apply runtime error mitigation to a utility scale problem
+- Track B: Apply runtime error mitigation to a utility scale problem
     - Choose the best error mitigation strategy based on learned noise
 
 ## Learning Resources
