@@ -9,29 +9,29 @@ Every afternoon during QDC, attendees will have the opportunity to participate i
 Every day there will be two challenges happening in parallel, and you may choose which one you would like to participate in based on your skills and interests. See below a summary of topics covered by each challenge:
 
 ### Day 1 - Circuits and Functions
-- Track A: Introduction to Qiskit circuit functions and addons
+- Track A: Introduction to Qiskit Functions and Qiskit addons
     - Get familiar with the IBM Functions catalogue
-    - Learn how to use circuit functions
+    - Learn how to use Circuit functions
     - Build your own function using Qiskit addons
 
-- Track B: Utility scale workload with sample-based quantum diagonalization (SQD)
+- Track B: Utility-scale workload with sample-based quantum diagonalization (SQD)
     - Learn how to use SQD to improve results from a Hamiltonian simulation problem
 
 ### Day 2 - Transpilation
-- Track A: Introduction to Qiskit transpilation
+- Track A: Introduction to transpilation in Qiskit
     - Understand how to use `generate_preset_passmanager` with different options
-    - Build custom passmanagers
+    - Build custom pass managers
     - Get started with the Qiskit Transpiler Service
 
-- Track B: Experiment with custom passmanagers
-    - Build the best possible custom passmanager
-    - Optimize your circuit to reduce circuit depth and 2-qubit gates
+- Track B: Experiment with custom pass managers
+    - Build the best possible custom pass manager
+    - Optimize your circuit to reduce circuit depth and two-qubit gates
 
 ### Day 3 - Accuracy and Execution
 - Track A: Introduction to noise learning and job debugging
     - Learn debugging techniques for error mitigation queries
     - Use noise learning helper programs to estimate noise
-- Track B: Apply runtime error mitigation to a utility scale problem
+- Track B: Apply runtime error mitigation to a utility-scale problem
     - Choose the best error mitigation strategy based on learned noise
 
 ## Learning Resources
@@ -42,14 +42,14 @@ The seminars and challenges at QDC are designed to cover a broad range of advanc
 
 - [Guide - Introduction to Qiskit](https://docs.quantum.ibm.com/guides)
 - [Guide - Install Qiskit](https://docs.quantum.ibm.com/guides/install-qiskit)
-- [Guide - Setup to use an IBM Quantum channel](https://docs.quantum.ibm.com/guides/setup-channel)
+- [Guide - Setup an IBM Quantum channel](https://docs.quantum.ibm.com/guides/setup-channel)
 - [Guide - Qiskit Code Assistant](https://docs.quantum.ibm.com/guides/qiskit-code-assistant)
 
 ### Day 1 - Circuits and Functions
 
 - [Guide - Hello World](https://docs.quantum.ibm.com/guides/hello-world)
 - [Guide - Introduction to Qiskit Functions](https://docs.quantum.ibm.com/guides/functions)
-- [Tutorial - Building workflows with the IBM Circuit Function](https://learning.quantum.ibm.com/tutorial/building-workflows-with-the-ibm-circuit-function)
+- [Tutorial - Building workflows with the IBM Circuit function](https://learning.quantum.ibm.com/tutorial/building-workflows-with-the-ibm-circuit-function)
 - [Tutorial - Compute dissociation curves for strong coupling systems with QunaSys QURI Chemistry](https://learning.quantum.ibm.com/tutorial/compute-dissociation-curves-for-strong-coupling-systems-with-quna-sys-qsci)
 - [Guide - Qiskit addons](https://docs.quantum.ibm.com/guides/addons)
 
