@@ -1,0 +1,6 @@
+qiskit
+qiskit-ibm-runtime
+qiskit-ibm-transpiler
+qiskit-ibm-catalog
+qiskit[visualization]
+jupyter
