@@ -32,4 +32,6 @@ If you are setting up a **local environment**, follow these steps:
 
     > **Tip:** Replace `path/to/requirements.txt` with the actual path to your `requirements.txt` file.
 
-If you are using an **online lab environment** (e.g., Google Colab or qBraid), the `requirements.txt` file is also compatible for installing and updating the required packages. Please refer to your platform’s documentation for specific instructions on uploading the requirements file and running `pip` commands, as some environments may require adjustments for notebooks or terminals.
+If you are using an **online lab environment** (e.g., Google Colab or qBraid), you can also use the `requirements.txt` file to install and update the required packages. The same `pip` command will work, though some platforms may require adjustments.
+
+Please refer to your platform’s documentation for specific instructions on adding the `requirements.txt` file and handling `pip` commands, especially if you’re working within notebooks or terminal interfaces.
