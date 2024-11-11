@@ -1,6 +1,6 @@
-# Updated Rules for the IBM Quantum Developer Conference Coding Challenges
+# Contest Rules for the IBM Quantum Developer Conference Coding Challenges
 
-Welcome to the IBM Quantum Developer Conference Coding Challenges! These challenges are designed to test your quantum computing skills using the Qiskit framework and IBM Quantum platform. The competition spans three days and features two types of challenges, now referred to as **Track A** and **Track B**. Please carefully review the following rules to ensure a smooth competition experience.
+Welcome to the IBM Quantum Developer Conference! These challenges are designed to test your quantum computing skills using the Qiskit product features and IBM Quantum platform. The competition spans three days and features two challenge tracks, now referred to as **Track A** and **Track B**. Please carefully review the following rules to ensure a smooth competition experience.
 
 ## 1. General Rules
 

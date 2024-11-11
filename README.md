@@ -1,9 +1,14 @@
 # IBM Quantum Developer Conference 2024
 
-Welcome to the **IBM Quantum Developer Conference 2024!** To ensure you have the best challenge experience possible, please follow the preparation steps outlined in this GitHub README before the event.
+Welcome to the IBM Quantum Developer Conference 2024! These challenges are designed to test your quantum computing skills using the Qiskit product features announced during QDC. The competition spans three days and features two challenge tracks.
+
+## Contest Rules
+
+Please carefully review [the contest rules](./contest_rules.md) to ensure a smooth competition experience.
 
 ## Installation and Setup
-Please bring a laptop that can connect to the internet, as laptops will not be provided at the venue.
+
+To ensure you have the best challenge experience possible, please follow the preparation steps outlined in this GitHub README before the event. Please bring a laptop that can connect to the internet, as laptops will not be provided at the venue.
 
 ### Set up your IBM Quantum Platform Account
 If you haven't already, create an account at the [IBM Quantum login page](https://quantum.ibm.com/login). **Be sure to sign up with the same email you used for event registration.** Your account will be linked to a specific [instance](https://docs.quantum.ibm.com/guides/instances) (in the form `hub/group/project`) for access to IBM Quantum services, and all attendees will be added to this instance for the conference.
