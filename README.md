@@ -13,7 +13,7 @@ Follow the steps [here](https://docs.quantum.ibm.com/guides/install-qiskit#insta
 
 Additionally, install these specific packages in your environment:
 - The Qiskit Functions catalog client ([installation instructions here](https://docs.quantum.ibm.com/guides/functions#install-qiskit-functions-catalog-client))
-- The Qiskit Transpiler Service client ([installation instructions here](https://docs.quantum.ibm.com/guides/functions#install-the-qiskit-ibm-transpiler-package))
+- The Qiskit Transpiler Service client ([installation instructions here](https://docs.quantum.ibm.com/guides/qiskit-transpiler-service#install-the-qiskit-ibm-transpiler-package))
 
 > **Alternative Option:**
 If you are not able to set up a Python environment or run Jupyter notebooks on your laptop, you may use an online lab environment, such as Google Colab or qBraid. See [this guide](https://docs.quantum.ibm.com/guides/online-lab-environments) for more details.
