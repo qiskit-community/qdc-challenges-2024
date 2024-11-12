@@ -3,7 +3,7 @@ qiskit-ibm-runtime>=0.32.0
 qiskit-aer
 qiskit-ibm-transpiler
 qiskit-serverless
-qiskit-ibm-catalogue
+qiskit-ibm-catalog
 networkx
 colorama
 jupyter
