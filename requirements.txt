@@ -1,9 +1,14 @@
 qiskit[visualization]>=1.0 # this will install qiskit and visualization required packages
-qiskit-ibm-runtime>=0.32.0
+qiskit-ibm-runtime
 qiskit-aer
 qiskit-ibm-transpiler
-qiskit-serverless
-qiskit-ibm-catalogue
+networkx
+colorama
+qiskit_serverless
+qiskit_addon_utils
+qiskit_addon_obp
+qiskit_addon_sqd
+qiskit_ibm_catalog
 networkx
 colorama
 jupyter
