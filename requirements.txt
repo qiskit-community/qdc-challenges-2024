@@ -12,3 +12,4 @@ qiskit_ibm_catalog
 networkx
 colorama
 jupyter
+qc_grader @ git+https://github.com/qiskit-community/Quantum-Challenge-Grader.git
