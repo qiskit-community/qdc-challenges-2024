@@ -40,6 +40,8 @@ If you are setting up a **local environment**, follow these steps:
 ---
 If you are using an **online lab environment** (e.g., Google Colab or qBraid), you can also use the `requirements.txt` file and `pip` command to install and update the required packages.
 
+qBraid has also setup a special environment with all required packages installed. Please look for the environment "QDC 2024" in the [Environment tab](https://docs.qbraid.com/lab/user-guide/environments) to activate it. 
+
 For specific instructions on adding the `requirements.txt` file and handling `pip` commands, please refer to your platform’s documentation, as some environments may require adjustments for notebooks or terminal interfaces.
 
 ## Challenges Topics
