@@ -12,41 +12,43 @@ Please carefully review [the contest rules](./contest_rules.md) to ensure a smoo
 
 ## Installation and Setup
 
-To ensure you have the best challenge experience possible, please follow the preparation steps outlined in this GitHub README before the event. Please bring a laptop that can connect to the internet, as laptops will not be provided at the venue.
+To participate, please complete the setup steps below. Remember to bring a laptop with internet access, as no devices will be provided at the venue.
 
-### Set up your IBM Quantum Platform Account
-If you haven't already, create an account at the [IBM Quantum login page](https://quantum.ibm.com/login). **Be sure to sign up with the same email you used for event registration.** Your account will be linked to a specific [instance](https://docs.quantum.ibm.com/guides/instances) (in the form `hub/group/project`) for access to IBM Quantum services, and all attendees will be added to this instance for the conference.
+### Step 1: Set up Your IBM Quantum Platform Account
+1. [Create an IBM Quantum account](https://quantum.ibm.com/login) if you haven't already.
+2. **Sign up using the same email address you registered with for this event**. Your account will be linked to a specific [instance](https://docs.quantum.ibm.com/guides/instances) for IBM Quantum services.
 
-### Create a Python Environment
-Follow the steps [here](https://docs.quantum.ibm.com/guides/install-qiskit#install-the-qiskit-sdk-and-the-qiskit-runtime-client) to create a Python environment and install the Qiskit SDK and Qiskit Runtime. Since we will be using Jupyter notebooks, please complete step 4 in the guide to ensure Jupyter is installed.
+### Step 2: Create a Python Environment
+1. Follow [this guide](https://docs.quantum.ibm.com/guides/install-qiskit#install-the-qiskit-sdk-and-the-qiskit-runtime-client) to create a Python environment and install the Qiskit SDK and Runtime. Ensure Jupyter is installed (Step 4 in the guide).
+2. Install additional packages:
+   - Qiskit Functions catalog client ([instructions](https://docs.quantum.ibm.com/guides/functions#install-qiskit-functions-catalog-client))
+   - Qiskit Transpiler Service client ([instructions](https://docs.quantum.ibm.com/guides/qiskit-transpiler-service#install-the-qiskit-ibm-transpiler-package))
 
-Additionally, install these specific packages in your environment:
-- The Qiskit Functions catalog client ([installation instructions here](https://docs.quantum.ibm.com/guides/functions#install-qiskit-functions-catalog-client))
-- The Qiskit Transpiler Service client ([installation instructions here](https://docs.quantum.ibm.com/guides/qiskit-transpiler-service#install-the-qiskit-ibm-transpiler-package))
+> **Alternative:** If setting up Python or Jupyter locally is difficult, consider using Google Colab or qBraid. See [this guide](https://docs.quantum.ibm.com/guides/online-lab-environments) for details.
 
-> **Alternative Option:**
-If you are not able to set up a Python environment or run Jupyter notebooks on your laptop, you may use an online lab environment, such as Google Colab or qBraid. See [this guide](https://docs.quantum.ibm.com/guides/online-lab-environments) for more details.
 
 ## Preparing for the Challenge
-To ensure your environment is up to date, update your installed packages right before the challenge.
 
----
-If you are setting up a **local environment**, follow these steps:
-1. Activate your Python environment to ensure packages are installed in the correct workspace.
-2. Download this [requirements file](./requirements.txt) and save it in your workspace.
-3. Run the following command to install or update all required packages:
+To ensure all tools are up to date, please update your packages right before the challenge begins.
+
+**If using a local environment:**
+1. Activate your Python environment.
+2. Download the [requirements file](./requirements.txt) to your workspace.
+3. Run this command to install/update packages:
+
     ```bash
     pip install -r path/to/requirements.txt --upgrade
     ```
 
-    > **Tip:** Replace `path/to/requirements.txt` with the actual path to your `requirements.txt` file.
+   > **Note:** Replace `path/to/requirements.txt` with your file's path.
 
----
-If you are using an **online lab environment** (e.g., Google Colab or qBraid), you can also use the `requirements.txt` file and `pip` command to install and update the required packages.
+**If using an online lab environment:**  
+Use the same `requirements.txt` file and pip command to install/update packages. For qBraid, activate the "QDC 2024" environment under the [Environment tab](https://docs.qbraid.com/lab/user-guide/environments), which comes pre-configured.
 
-qBraid has also setup a special environment with all required packages installed. Please look for the environment "QDC 2024" in the [Environment tab](https://docs.qbraid.com/lab/user-guide/environments) to activate it. 
+## Challenge Notebooks
 
-For specific instructions on adding the `requirements.txt` file and handling `pip` commands, please refer to your platform’s documentation, as some environments may require adjustments for notebooks or terminal interfaces.
+Each day, the challenge notebooks will be available in their respective "Day" folders within the GitHub repository. **Please download the notebooks for each day, open them, and run them to proceed with the challenges.**
+
 
 ## Challenges Topics
 
