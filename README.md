@@ -2,10 +2,6 @@
 
 Welcome to the IBM Quantum Developer Conference 2024! These challenges are designed to test your quantum computing skills using the Qiskit product features announced during QDC. The competition spans three days and features two challenge tracks.
 
-## Leaderboard
-
-Want to see how you stack up against the competition? Search for your submission on the [Challenges Leaderboard](https://challenges.quantum.ibm.com/qdc-2024).
-
 ## Contest Rules
 
 Please carefully review [the contest rules](./contest_rules.md) to ensure a smooth competition experience.
