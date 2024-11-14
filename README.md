@@ -40,6 +40,9 @@ To ensure all tools are up to date, please update your packages right before the
 
 **If using an online lab environment:**  
 Use the same `requirements.txt` file and pip command to install/update packages. For qBraid, activate the "QDC 2024" environment under the [Environment tab](https://docs.qbraid.com/lab/user-guide/environments), which comes pre-configured.
+You can launch the  by clicking the button below Launch on qBraid to clone and open this gitHub link on qBraid Lab.
+
+[<img src="https://qbraid-static.s3.amazonaws.com/logos/Launch_on_qBraid_white.png" width="150">](https://account.qbraid.com?gitHubUrl=https://github.com/qiskit-community/qdc-challenges-2024)
 
 ## Challenge Notebooks
 
