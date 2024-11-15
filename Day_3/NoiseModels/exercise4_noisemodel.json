@@ -1,0 +1,275 @@
+{
+  "data": [
+    {
+      "__type__": "_json",
+      "__module__": "qiskit_ibm_runtime.utils.noise_learner_result",
+      "__class__": "LayerError",
+      "__value__": {
+        "circuit": {
+          "__type__": "QuantumCircuit",
+          "__value__": "eJwL9Az29gzhYWRiYYAAxtRCBu40Bg4gEyYEAkwgKSQ2Q3JmUXJpZomusakFTE11bSEjWBsjYyEDKkDRCgTMcBl2NBl04Ooc5J5YkgoykLkQrI4EHXB3/EcCMHUAWRMbbw=="
+        },
+        "qubits": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "error": {
+          "__type__": "_json",
+          "__module__": "qiskit_ibm_runtime.utils.noise_learner_result",
+          "__class__": "PauliLindbladError",
+          "__value__": {
+            "generators": {
+              "__type__": "settings",
+              "__module__": "qiskit.quantum_info.operators.symplectic.pauli_list",
+              "__class__": "PauliList",
+              "__value__": {
+                "data": [
+                  "IIIX",
+                  "IIIY",
+                  "IIIZ",
+                  "IIXI",
+                  "IIXX",
+                  "IIXY",
+                  "IIXZ",
+                  "IIYI",
+                  "IIYX",
+                  "IIYY",
+                  "IIYZ",
+                  "IIZI",
+                  "IIZX",
+                  "IIZY",
+                  "IIZZ",
+                  "IXII",
+                  "IXXI",
+                  "IXYI",
+                  "IXZI",
+                  "IYII",
+                  "IYXI",
+                  "IYYI",
+                  "IYZI",
+                  "IZII",
+                  "IZXI",
+                  "IZYI",
+                  "IZZI",
+                  "XIII",
+                  "XXII",
+                  "XYII",
+                  "XZII",
+                  "YIII",
+                  "YXII",
+                  "YYII",
+                  "YZII",
+                  "ZIII",
+                  "ZXII",
+                  "ZYII",
+                  "ZZII"
+                ]
+              }
+            },
+            "rates": {
+              "__type__": "ndarray",
+              "__value__": "eJyb7BfqGxDJyFDGUK2eklqcXKRupaBuk2ahrqOgnpZfVFKUmBefX5SSChJ3S8wpTgWKF2ckFqQC+RrGljqaOgq1CuQDrkzZUF+BUn/7SafrPfbX2tp7b7CY8/OqjT1EXB/Ov/T72PV5kUr2DFAgJc7XksJobK/rLPP6kZmV/ceMxx1bf3yxg6gTsl/pO+fO+wATuD6YOTB79PMWM+5hDYLqe2IHo/mv/bc8M13c/o6gH3fcF1cMeyHukrcX7fF6xWKSCBeHqYPJPw+KCf0W62jf/aBe++ZGR7h/YO6GicPUQeT/2/1Z+fGSb5KBvfNRi3phLkN7ixYt0+oFpvbqHbv4HbKS7RWZ+BZ6nfWzBwB+Oppn"
+            }
+          }
+        }
+      }
+    },
+    {
+      "__type__": "_json",
+      "__module__": "qiskit_ibm_runtime.utils.noise_learner_result",
+      "__class__": "LayerError",
+      "__value__": {
+        "circuit": {
+          "__type__": "QuantumCircuit",
+          "__value__": "eJwL9Az29gzhYWRiYYAAxtRCBu40Bg4gk5UBAZhAUkhshuTMouTSzBJdYzMTmJrq2kJGsDZGxkIGVICiFQiYoTQLXAU7mgp04Ooc5J5YkgoymKUQbAIJOpgKoW74jwRg6gCikRt2"
+        },
+        "qubits": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "error": {
+          "__type__": "_json",
+          "__module__": "qiskit_ibm_runtime.utils.noise_learner_result",
+          "__class__": "PauliLindbladError",
+          "__value__": {
+            "generators": {
+              "__type__": "settings",
+              "__module__": "qiskit.quantum_info.operators.symplectic.pauli_list",
+              "__class__": "PauliList",
+              "__value__": {
+                "data": [
+                  "IIIIX",
+                  "IIIIY",
+                  "IIIIZ",
+                  "IIIXI",
+                  "IIIXX",
+                  "IIIXY",
+                  "IIIXZ",
+                  "IIIYI",
+                  "IIIYX",
+                  "IIIYY",
+                  "IIIYZ",
+                  "IIIZI",
+                  "IIIZX",
+                  "IIIZY",
+                  "IIIZZ",
+                  "IIXII",
+                  "IIXXI",
+                  "IIXYI",
+                  "IIXZI",
+                  "IIYII",
+                  "IIYXI",
+                  "IIYYI",
+                  "IIYZI",
+                  "IIZII",
+                  "IIZXI",
+                  "IIZYI",
+                  "IIZZI",
+                  "IXIII",
+                  "IXXII",
+                  "IXYII",
+                  "IXZII",
+                  "IYIII",
+                  "IYXII",
+                  "IYYII",
+                  "IYZII",
+                  "IZIII",
+                  "IZXII",
+                  "IZYII",
+                  "IZZII",
+                  "XIIII",
+                  "XXIII",
+                  "XYIII",
+                  "XZIII",
+                  "YIIII",
+                  "YXIII",
+                  "YYIII",
+                  "YZIII",
+                  "ZIIII",
+                  "ZXIII",
+                  "ZYIII",
+                  "ZZIII"
+                ]
+              }
+            },
+            "rates": {
+              "__type__": "ndarray",
+              "__value__": "eJyb7BfqGxDJyFDGUK2eklqcXKRupaBuk2ahrqOgnpZfVFKUmBefX5SSChJ3S8wpTgWKF2ckFqQC+RqmhjqaOgq1CuQDrmqRde4Pq0LsnwfFhH6LDbRPv/o8S/tbuf3HjMcdW3+I2M/j6ZsU/lwDylexTzQKNdBaqQwXz5QN9RUo5YfTus4yrx+ZadkrMvEt9Dprh1P+z8qPl3yTAuzDPro9m2gfYd8wv/Chg4eZPQMU7FtiGOUeGmyftlfiVGdZqD3/tf+WZ6aLw+XNIhfLLbroCzX3v10n0LEMjz3tF5iLrjTY5mAfz35OMvCWt733Bos5P6/KwGmYfoh/ntjB3HXp97Hr8yKV7CH2Ots7H7WoF+ZKhIvD1MHkIe5KhfrHC6reEG4+TBymjgENQMLR2T5C5tyfLD4H+2WfylouN6XDzQMA0CSxHA=="
+            }
+          }
+        }
+      }
+    },
+    {
+      "__type__": "_json",
+      "__module__": "qiskit_ibm_runtime.utils.noise_learner_result",
+      "__class__": "LayerError",
+      "__value__": {
+        "circuit": {
+          "__type__": "QuantumCircuit",
+          "__value__": "eJwL9Az29gzhYWRiYYAAxtRCBu40Bg4gk5UBAZhAUjAlICI5syi5NLNE19jcAKamuraQEayNkbGQARXAtDJBaWYozQJXwY6mAh24Oge5J5akggyGm/4fCcDUAQDIUBgj"
+        },
+        "qubits": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "error": {
+          "__type__": "_json",
+          "__module__": "qiskit_ibm_runtime.utils.noise_learner_result",
+          "__class__": "PauliLindbladError",
+          "__value__": {
+            "generators": {
+              "__type__": "settings",
+              "__module__": "qiskit.quantum_info.operators.symplectic.pauli_list",
+              "__class__": "PauliList",
+              "__value__": {
+                "data": [
+                  "IIIIX",
+                  "IIIIY",
+                  "IIIIZ",
+                  "IIIXI",
+                  "IIIXX",
+                  "IIIXY",
+                  "IIIXZ",
+                  "IIIYI",
+                  "IIIYX",
+                  "IIIYY",
+                  "IIIYZ",
+                  "IIIZI",
+                  "IIIZX",
+                  "IIIZY",
+                  "IIIZZ",
+                  "IIXII",
+                  "IIXXI",
+                  "IIXYI",
+                  "IIXZI",
+                  "IIYII",
+                  "IIYXI",
+                  "IIYYI",
+                  "IIYZI",
+                  "IIZII",
+                  "IIZXI",
+                  "IIZYI",
+                  "IIZZI",
+                  "IXIII",
+                  "IXXII",
+                  "IXYII",
+                  "IXZII",
+                  "IYIII",
+                  "IYXII",
+                  "IYYII",
+                  "IYZII",
+                  "IZIII",
+                  "IZXII",
+                  "IZYII",
+                  "IZZII",
+                  "XIIII",
+                  "XXIII",
+                  "XYIII",
+                  "XZIII",
+                  "YIIII",
+                  "YXIII",
+                  "YYIII",
+                  "YZIII",
+                  "ZIIII",
+                  "ZXIII",
+                  "ZYIII",
+                  "ZZIII"
+                ]
+              }
+            },
+            "rates": {
+              "__type__": "ndarray",
+              "__value__": "eJyb7BfqGxDJyFDGUK2eklqcXKRupaBuk2ahrqOgnpZfVFKUmBefX5SSChJ3S8wpTgWKF2ckFqQC+RqmhjqaOgq1CuQDLgYo0HWWef3ITMoeRjNQCLIMeA+7Hymx1/69juPf9iJ7apvP/vq/zLPTu0k252o0c7RqRAxOfdfydl+IWV5o7/zctKzz1Vq4ulYnFhmnqVX2s1QZs7JudpHt/oP/wzYlKyfYNxW7TfnG1o/THAA1vUvC"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "backend": "ibm_brisbane",
+    "input_options": {
+      "max_layers_to_learn": 3,
+      "shots_per_randomization": 128,
+      "num_randomizations": 32,
+      "layer_pair_depths": [
+        0,
+        1,
+        2,
+        4,
+        16,
+        32
+      ],
+      "twirling_strategy": "active-accum"
+    }
+  }
+}
